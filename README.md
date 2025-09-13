@@ -4,8 +4,8 @@ This repository contains the **SQL schema** for a Library Management System as p
 
 ## 📁 Contents
 
-- `author.sql` &nbsp;→ Table for storing authors
-- `book.sql`   &nbsp;&nbsp;→ Table for storing books and their authors
+- `author.sql` → Table for storing authors
+- `book.sql` → Table for storing books and their authors
 - `patron.sql` → Table for library patrons
 - `transaction.sql` → Table to record borrow/return events
 - `borrowed_book.sql` → Associates transactions with the books borrowed
@@ -38,5 +38,7 @@ This structure:
 
 Feel free to clone or fork this repository!
 
-## contact 
-For any questions contact:[shyamsunderkalyanapu@gmail.com]
+## 📧 Contact
+
+For any questions, please email:  
+(mailto:shyamsunderkalyanapu@gmail.com)
